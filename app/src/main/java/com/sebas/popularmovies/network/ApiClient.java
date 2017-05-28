@@ -17,7 +17,7 @@ public class ApiClient {
     public static final String TMDB_POPULAR_URL = "movie/popular";
     public static final String TMDB_MOVIE_DETAIL_URL = "movie/{" + ID_PARAM + "}";
 
-    public static final String TMDB_API_KEY = "3391bb2333ea434e41a23470b81c49cd";
+    public static final String TMDB_API_KEY = "YOUR_API_KEY";
     public static final String TMDB_APPEND_FIELDS = "videos,reviews";
 
     private static final String BASE_URL = "https://api.themoviedb.org/3/";
